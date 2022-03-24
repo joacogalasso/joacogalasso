@@ -16,7 +16,7 @@
 
 </p>
   <p>
-    🙋‍♂️⠀⠀⠀I'm Joaco, I turned 18 on July 20, 2021, Friendship Day in Argentina. <br>
+    🧑⠀⠀⠀I turned 18 on July 20, 2021, Friendship Day in Argentina. <br>
    📍🇦🇷⠀⠀⠀Born in the City of La Plata, Province of Buenos Aires, Argentina. I live here. <br>
     📚⠀⠀⠀Student of the short-term career Analyst in Information and Communication Technologies (ICTs), oriented to web development. <br>
     <br>
