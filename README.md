@@ -8,6 +8,7 @@
   <a href="https://www.youtube.com/channel/UC6HTO_zD5Rvgig9w_tTtkLg"><img src="https://raw.githubusercontent.com/joaquin-galasso/joaquin-galasso/master/youtube.svg" width="40px" alt="YouTube"/></a>
   <a href="https://www.behance.net/joaquin-galasso"><img src="https://raw.githubusercontent.com/joaquin-galasso/joaquin-galasso/master/behance.svg" width="40px" alt="Behance"/></a>
   <a href="https://twitter.com/joacogalasso"><img src="https://raw.githubusercontent.com/joaquin-galasso/joaquin-galasso/master/twitter.svg" width="40px" alt="Twitter"/></a>
+	<a href="https://github.com/joaquin-galasso"><img src="https://raw.githubusercontent.com/joaquin-galasso/joaquin-galasso/master/github.svg" width="40px" alt="Behance"/></a>
 </p>
 
 <a align="center"><img src="https://raw.githubusercontent.com/joaquin-galasso/joaquin-galasso/master/open.svg" alt="Open bar"/></a>
