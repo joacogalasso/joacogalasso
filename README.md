@@ -11,7 +11,7 @@
 	<a href="https://github.com/joaquin-galasso"><img src="https://raw.githubusercontent.com/joaquin-galasso/joaquin-galasso/master/svg/github.svg" width="40px" alt="Behance"/></a>
 </p>
 
-<a align="center"><img src="https://raw.githubusercontent.com/joaquin-galasso/joaquin-galasso/master/open.svg" alt="Open bar"/></a>
+<a align="center"><img src="https://raw.githubusercontent.com/joaquin-galasso/joaquin-galasso/master/svg/open.svg" alt="Open bar"/></a>
 
 <br>
 
@@ -39,4 +39,4 @@
 
 <br><br>
 
-<a align="center"><img src="https://raw.githubusercontent.com/joaquin-galasso/joaquin-galasso/master/close.svg" alt="Close bar"/></a>
+<a align="center"><img src="https://raw.githubusercontent.com/joaquin-galasso/joaquin-galasso/master/svg/close.svg" alt="Close bar"/></a>
