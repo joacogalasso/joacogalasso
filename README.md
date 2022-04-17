@@ -2,16 +2,16 @@
 <h3 align="center">CS student 👨‍💻️ | Multimedia graphic designer 👨‍🎨️ | Front-end developer in process ⚙️</h3>
 
 <p align="center">
-	<a href="https://www.instagram.com/joacogalasso/"><img src="https://raw.githubusercontent.com/joaquin-galasso/joaquin-galasso/master/svg/instagram.svg" width="40px" margin-right="10px" alt="Instagram"/></a>
-	<a href="https://www.facebook.com/joaquin-galasso/"><img src="https://raw.githubusercontent.com/joaquin-galasso/joaquin-galasso/master/svg/facebook.svg" width="40px" alt="Facebook"/></a>
-  <a href="https://www.linkedin.com/in/joaquin-galasso/"><img src="https://raw.githubusercontent.com/joaquin-galasso/joaquin-galasso/master/svg/linkedin.svg" width="40px" alt="LinkedIn"/></a>
-  <a href="https://www.youtube.com/channel/UC6HTO_zD5Rvgig9w_tTtkLg"><img src="https://raw.githubusercontent.com/joaquin-galasso/joaquin-galasso/master/svg/youtube.svg" width="40px" alt="YouTube"/></a>
-  <a href="https://www.behance.net/joaquin-galasso"><img src="https://raw.githubusercontent.com/joaquin-galasso/joaquin-galasso/master/svg/behance.svg" width="40px" alt="Behance"/></a>
-  <a href="https://twitter.com/joacogalasso"><img src="https://raw.githubusercontent.com/joaquin-galasso/joaquin-galasso/master/svg/twitter.svg" width="40px" alt="Twitter"/></a>
-	<a href="https://github.com/joaquin-galasso"><img src="https://raw.githubusercontent.com/joaquin-galasso/joaquin-galasso/master/svg/github.svg" width="40px" alt="Behance"/></a>
+	<a href="https://www.instagram.com/joacogalasso/"><img src="https://raw.githubusercontent.com/joaquingalasso/joaquingalasso/master/svg/instagram.svg" width="40px" margin-right="10px" alt="Instagram"/></a>
+	<a href="https://www.facebook.com/joaquingalasso/"><img src="https://raw.githubusercontent.com/joaquingalasso/joaquingalasso/master/svg/facebook.svg" width="40px" alt="Facebook"/></a>
+  <a href="https://www.linkedin.com/in/joaquingalasso/"><img src="https://raw.githubusercontent.com/joaquingalasso/joaquingalasso/master/svg/linkedin.svg" width="40px" alt="LinkedIn"/></a>
+  <a href="https://www.youtube.com/channel/UC6HTO_zD5Rvgig9w_tTtkLg"><img src="https://raw.githubusercontent.com/joaquingalasso/joaquingalasso/master/svg/youtube.svg" width="40px" alt="YouTube"/></a>
+  <a href="https://www.behance.net/joaquingalasso"><img src="https://raw.githubusercontent.com/joaquingalasso/joaquingalasso/master/svg/behance.svg" width="40px" alt="Behance"/></a>
+  <a href="https://twitter.com/joacogalasso"><img src="https://raw.githubusercontent.com/joaquingalasso/joaquingalasso/master/svg/twitter.svg" width="40px" alt="Twitter"/></a>
+	<a href="https://github.com/joaquingalasso"><img src="https://raw.githubusercontent.com/joaquingalasso/joaquingalasso/master/svg/github.svg" width="40px" alt="GitHub"/></a>
 </p>
 
-<a align="center"><img src="https://raw.githubusercontent.com/joaquin-galasso/joaquin-galasso/master/svg/open.svg" alt="Open bar"/></a>
+<a align="center"><img src="https://raw.githubusercontent.com/joaquingalasso/joaquingalasso/master/svg/open.svg" alt="Open bar"/></a>
 
 <br>
 
@@ -39,4 +39,4 @@
 
 <br><br>
 
-<a align="center"><img src="https://raw.githubusercontent.com/joaquin-galasso/joaquin-galasso/master/svg/close.svg" alt="Close bar"/></a>
+<a align="center"><img src="https://raw.githubusercontent.com/joaquingalasso/joaquingalasso/master/svg/close.svg" alt="Close bar"/></a>
