@@ -17,7 +17,7 @@
 
 </p>
   <p>
-    🧑⠀⠀⠀I turned 19 on friend's day (July 20 in Argentina). <br>
+    🧑⠀⠀⠀I turned 21 on friend's day (July 20 in Argentina). <br>
    📍🇦🇷⠀⠀⠀Born in the City of La Plata, Province of Buenos Aires, Argentina. I live here. <br>
     📚⠀⠀⠀Student of the short-term career Analyst in Information and Communication Technologies (ICTs), oriented to web development. <br>
     <br>
