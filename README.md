@@ -22,7 +22,7 @@
     📚⠀⠀⠀Student of the short-term career Analyst in Information and Communication Technologies (ICTs), oriented to web development. <br>
     <br>
     ❤️⠀⠀⠀Passionate about design systems, branding, illustration and web programming (HTML, CSS & JavaScript). <br>
-    🤩⠀⠀⠀Fan of web design, samba, Taekwondo and Honorio Bustos Domecq. I love to cook and try new flavors. <br>
+    🤩⠀⠀⠀Fan of web design, samba, Taekwondo and H. Bustos Domecq. I love to cook and try new flavors. <br>
     🤔⠀⠀⠀Interested in algorithmic art, with Processing and p5.js. <br>
     <br>
     💡⠀⠀⠀Collaborative and proactive. <br>
